@@ -1,9 +1,11 @@
 The Gaming Room: Software Design Documentation
 
-**Summary**\n
+**Summary**
+
 The Gaming Room is a client seeking to expand their game, "Draw It or Lose It," to a web-based platform that supports multiple computing environments. The game involves teams competing to guess drawings rendered by the application.
 
 **Contributions**
+
 In developing this documentation, I excelled in creating a detailed and comprehensive system architecture that addresses scalability, security, and performance needs.
 
 **Helpful Processes**
